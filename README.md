@@ -132,14 +132,14 @@ Main modules include:
 
 ## Project Status
 
-Completed (Academic Project)
+Completed (Academic Project)<br>
 Open for improvements and enhancements
 
 ---
 
 ## Author
 
-Muhammad Jaffer
+Muhammad Jaffer <br>
 Java Project – Library Management System
 
 ---
